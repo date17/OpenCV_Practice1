@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\date\source\repos\Opencv3pra\main.cpp(15,64): warning C4244:  '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\date\source\repos\Opencv3pra\main.cpp(25,67): warning C4244:  '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\date\source\repos\Opencv3pra\main.cpp(35,67): warning C4244:  '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\date\source\repos\Opencv3pra\main.cpp(60,6): warning C4101:  'buffer': ローカル変数は 1 度も使われていません。
+  コード生成しています。
+  3 of 318 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Opencv3pra.vcxproj -> C:\Users\date\source\repos\Opencv3pra\x64\Release\Opencv3pra.exe
